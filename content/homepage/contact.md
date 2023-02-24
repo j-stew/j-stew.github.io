@@ -1,11 +1,8 @@
 ---
-title: "Contact"
+title: "Let's get in touch!"
 weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-linkedin">}}&nbsp;[LinkedIn](https://www.linkedin.com/in/jessica-stew-stewart/)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
-
-Let's get in touch!
